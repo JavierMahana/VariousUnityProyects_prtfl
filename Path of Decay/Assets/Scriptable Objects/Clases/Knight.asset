@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4cd01fb133df57a4ba11674629ad1406, type: 3}
+  m_Name: Knight
+  m_EditorClassIdentifier: 
+  maxStats: {fileID: 11400000, guid: 6a0c1faf795a1794fbe8774accce28a9, type: 2}
+  gr: {fileID: 11400000, guid: 2f47e18437585c1439d183adbad0cad4, type: 2}
+  tipoDeMovimiento: {fileID: 11400000, guid: 562f4193b99e35f4c87e5159a86583f1, type: 2}
+  tipoDeArmasEquipables:
+  - {fileID: 11400000, guid: 5710555cbe3b68f46b53fa1369ab1e12, type: 2}
+  - {fileID: 11400000, guid: 44584ada26b0d3b419d4fd2b725f764b, type: 2}
+  defaultSrite: {fileID: 21300000, guid: 922aef627dec40a4cb532c7c7dc5a8f8, type: 3}
